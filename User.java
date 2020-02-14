@@ -13,6 +13,7 @@ import javax.persistence.*;
 @NoArgsConstructor
 public class User {
     //设置用户主键和自增
+	//修改
     @Id
     @GeneratedValue
     private Long id;
